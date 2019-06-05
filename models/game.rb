@@ -26,9 +26,9 @@ elsif @user_choice == "s" && @computer_choice == "paper"
     return "computer wins - scissors beat paper"
 
   else
-    return "Please try again it would appear you have done something wrong."
+    return "It's a draw."
 
-  end 
+  end
 end
 
 
